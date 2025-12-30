@@ -31,9 +31,9 @@ A Machine Learning-powered web application that predicts the probability of how 
 
 ## 📊 Logic Overview
 The model uses a Logistic Regression-based scorecard approach. Key risk drivers include:
-Income Type: Pensioners carry higher risk weight; State servants carry lower risk.
-Family Status: Single applicants typically see a slight score reduction compared to married applicants.
-Family Size: Large families (5+ members) trigger higher risk adjustments due to increased financial burden.
+- **Income Type**: Pensioners carry higher risk weight; State servants carry lower risk.
+- **Family Status**: Single applicants typically see a slight score reduction compared to married applicants.
+- **Family Size**: Large families (5+ members) trigger higher risk adjustments due to increased financial burden.
 
 ## 📝 License
 This project is open source and available under the MIT License.

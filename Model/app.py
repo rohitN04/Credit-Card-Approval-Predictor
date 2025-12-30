@@ -119,7 +119,7 @@ class CC_approval_pred():
     def app_setup(self):
         # page setup
         st.set_page_config(page_title = "Credit Card Application Predictor", page_icon="🏦")
-        st.title("🏦 Credit Risk Evaluator")
+        st.title("🏦 Credit Card Application Predictor")
         st.write("Enter applicant details below to calculate their creditworthiness.")
 
         # input form

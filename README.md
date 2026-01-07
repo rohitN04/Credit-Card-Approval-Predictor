@@ -3,7 +3,7 @@
 A Machine Learning-powered web application that predicts the probability of how good/bad their chances are if they applies for a credit card using our dataset. This tool allows loan officers and customers to input applicant details (income, family status, occupation) and receive an instant predicted credit score estimate and probability for chances of approval.
 
 ## 🚀 Live Demo
-[Link to your Streamlit App will go here]
+https://credit-card-approval-predictor-by-rohit-narwal.streamlit.app/
 
 ## 🛠️ Features
 - **Real-time Scoring:** Instant calculation of credit scores (300-850 range).
